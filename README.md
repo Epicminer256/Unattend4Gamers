@@ -1,2 +1,3 @@
 # Unattend4Gamers
-Drag and drop these files on a existing Windows 11 ISO for a pre-setup gaming install
+
+Download [update.bat](https://github.com/Epicminer256/Unattend4Gamers/raw/refs/heads/main/update.bat) and run it on the root of your Windows 11 installer or drag and drop all these files on a existing Windows 11 USB installer for a pre-setup gaming install
