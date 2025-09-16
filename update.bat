@@ -1,0 +1,2 @@
+powershell -Command "Invoke-WebRequest -Uri 'https://github.com/Epicminer256/Unattend4Gamers/archive/refs/heads/main.zip' -OutFile 'update.zip'"
+tar  --strip-components 1 -xf update.zip && del update.zip && exit
